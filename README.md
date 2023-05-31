@@ -1,1 +1,3 @@
-# Car_Classification
+# 차량 분류모델 프로젝트
+
+## 개요 
